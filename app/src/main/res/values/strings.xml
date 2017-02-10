@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IceTool</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="date">
+        <item>2017-1-22</item>
+        <item>2017-2-22 </item>
+    </string-array>
+    <string-array name="kind">
+        <item>全部</item>
+        <item>一半</item>
+    </string-array>
+    <string-array name="name">
+        <item>王建国</item>
+        <item>陈鑫</item>
+    </string-array>
+
+</resources>
