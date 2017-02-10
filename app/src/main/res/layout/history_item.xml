@@ -12,10 +12,12 @@
             android:gravity="center"
             android:text="售货单号"
             android:textSize="14sp" />
+
         <View
             android:layout_width="1dp"
             android:layout_height="match_parent"
             android:background="@color/colorPrimaryDark" />
+
         <TextView
             android:id="@+id/tv_date"
             android:layout_width="0dp"
@@ -24,10 +26,12 @@
             android:gravity="center"
             android:text="日期"
             android:textSize="14sp" />
+
         <View
             android:layout_width="1dp"
             android:layout_height="match_parent"
             android:background="@color/colorPrimaryDark" />
+
         <TextView
             android:id="@+id/tv_name"
             android:layout_width="0dp"
@@ -36,10 +40,12 @@
             android:gravity="center"
             android:text="客户"
             android:textSize="14sp" />
+
         <View
             android:layout_width="1dp"
             android:layout_height="match_parent"
             android:background="@color/colorPrimaryDark" />
+
         <TextView
             android:id="@+id/tv_kind"
             android:layout_width="0dp"
@@ -48,10 +54,12 @@
             android:gravity="center"
             android:text="品类"
             android:textSize="14sp" />
+
         <View
             android:layout_width="1dp"
             android:layout_height="match_parent"
             android:background="@color/colorPrimaryDark" />
+
         <TextView
             android:id="@+id/tv_factory"
             android:layout_width="0dp"
@@ -60,10 +68,12 @@
             android:gravity="center"
             android:text="厂号"
             android:textSize="14sp" />
+
         <View
             android:layout_width="1dp"
             android:layout_height="match_parent"
             android:background="@color/colorPrimaryDark" />
+
         <TextView
             android:id="@+id/tv_cost"
             android:layout_width="0dp"
@@ -72,10 +82,12 @@
             android:gravity="center"
             android:text="售价(元/件)"
             android:textSize="14sp" />
+
         <View
             android:layout_width="1dp"
             android:layout_height="match_parent"
             android:background="@color/colorPrimaryDark" />
+
         <TextView
             android:id="@+id/tv_count"
             android:layout_width="0dp"
@@ -84,10 +96,12 @@
             android:gravity="center"
             android:text="数量(件)"
             android:textSize="14sp" />
+
         <View
             android:layout_width="1dp"
             android:layout_height="match_parent"
             android:background="@color/colorPrimaryDark" />
+
         <TextView
             android:id="@+id/tv_sum"
             android:layout_width="0dp"
@@ -95,5 +109,4 @@
             android:layout_weight="1"
             android:gravity="center"
             android:textSize="14sp" />
-
 </LinearLayout>
